@@ -45,6 +45,7 @@ emailConifg = {
     'MAIL_SERVER':'smtp.qq.com',
     'MAIL_PORT':587,
     'MAIL_USE_TLS':True,
+    #phkjrlxrtvzvdecj
     'MAIL_USERNAME':'2718742015@qq.com',
-    'MAIL_PASSWORD':"phkjrlxrtvzvdecj"
+    'MAIL_PASSWORD':"#"
 }
